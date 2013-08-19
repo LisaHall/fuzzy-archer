@@ -1,4 +1,4 @@
-<?php header('Content-type: text/xml'); ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Say>Welcome to Twilio Client!</Say>
+<Say>Hello Monkey</Say>
 </Response>
